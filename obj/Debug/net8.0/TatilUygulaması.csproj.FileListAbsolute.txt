@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\bin\Debug\net8.0\TatilUygulaması.exe
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\bin\Debug\net8.0\TatilUygulaması.deps.json
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\bin\Debug\net8.0\TatilUygulaması.runtimeconfig.json
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\bin\Debug\net8.0\TatilUygulaması.dll
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\bin\Debug\net8.0\TatilUygulaması.pdb
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\TatilUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\TatilUygulaması.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\TatilUygulaması.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\TatilUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\TatilUygulaması.sourcelink.json
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\TatilUygulaması.dll
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\refint\TatilUygulaması.dll
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\TatilUygulaması.pdb
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\TatilUygulaması.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\TatilUygulaması\TatilUygulaması\obj\Debug\net8.0\ref\TatilUygulaması.dll
